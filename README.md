@@ -43,7 +43,7 @@ When you toggle a switch on the Arduino Cloud dashboard, the ESP8266 sends a sin
 
     finalheader.h: Contains configuration registers, delays, LCD setup, and UART setup functions for LPC2129.
 
-    esp8266_gateway.ino: The Arduino code uploaded to the ESP8266 to link with the Arduino IoT Cloud.
+    smart.ino: The Arduino code uploaded to the ESP8266 to link with the Arduino IoT Cloud.
 
 🚀 How to Run
 
