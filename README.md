@@ -1,3 +1,5 @@
+PROJECT TITLE: SmartLink: Advanced IoT-Based Smart Device Automation with Cloud-Enabled Embedded Intelligence.
+
 [WATCH DEMO VIDEO ON LINKEDIN]--> https://www.linkedin.com/posts/thiruporselvan-m-693669267_embeddedsystems-iot-arm7-activity-7468663053396377600-AaLP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEFqXo8B-Rmr1A1zr1rp4276hGPZyj59VWE
 
 🌐 System Block Diagram
